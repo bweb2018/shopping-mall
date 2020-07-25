@@ -1,0 +1,121 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "159971",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "f0171",
+      "unicode_decimal": 983409
+    },
+    {
+      "icon_id": "569216",
+      "name": "svg_arrows_left",
+      "font_class": "svgarrowsleft",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "569217",
+      "name": "svg_arrows_right",
+      "font_class": "svgarrowsright",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "745701",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "775752",
+      "name": "et-site",
+      "font_class": "et-site",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "1262078",
+      "name": "reorder",
+      "font_class": "reorder",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "1287691",
+      "name": "待发货",
+      "font_class": "daifahuo",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1667263",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "2681678",
+      "name": "待收货",
+      "font_class": "daishouhuo",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "2811149",
+      "name": "评价",
+      "font_class": "pingjia",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "7089324",
+      "name": "site",
+      "font_class": "site",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "9358625",
+      "name": "card",
+      "font_class": "card",
+      "unicode": "e54c",
+      "unicode_decimal": 58700
+    },
+    {
+      "icon_id": "11686831",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "12215117",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "12525671",
+      "name": "order",
+      "font_class": "order",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "15427722",
+      "name": "销售明细 sale/order/saleDetail",
+      "font_class": "saleordersaleDetail",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    }
+  ]
+}
